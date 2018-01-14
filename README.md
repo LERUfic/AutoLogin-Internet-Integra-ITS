@@ -1,4 +1,4 @@
-# AUTOLOGIN INTERNET ITS
+# AutoLogin Internet Integra ITS
 
 Program ini bertujuan untuk mempercepat login anda sehingga tidak perlu melakukan input NRP dan Password berulang-ulang.
 
@@ -12,6 +12,7 @@ Alasan menggunakan PhantomJS adalah karena PhantomJS ini merupakan browser yang 
 
 1. Linux \(Bisa juga di windows tapi perlu melakukan beberapa perubahan settingan\).
 2. Pastikan ada command cd, replace, bash di komputer anda.
+3. Memiliki akun untuk akses Internet ITS \(akun integra)\
 
 ## Installation:
 
